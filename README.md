@@ -15,3 +15,7 @@ We will learn how to deploy an application.
 ## How To Contribute
 
 You can contribute by cloning the GitHub Repo and start coding.
+
+### Copyright
+
+2023 Harsh Sharma
