@@ -19,4 +19,4 @@ please fork this repo
 
 ### Copyright
 
-2023 Harsh Sharma
+2023 Harsh Sharma, all rights reserved
