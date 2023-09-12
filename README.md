@@ -7,6 +7,7 @@ Doing an emergency fix.
 ## Introduction
 
 ## Purpose
+Purpose is to learn Git in detail.
 
 Sample website with plenty of files for demos
 
